@@ -8,10 +8,11 @@ saturdayFun();
 saturdayFun("eat");
 
 
-function mondayWork(par = "roller-skate"){
+function mondayWork(par = "go to the office"){
 
 
 return `This Monday, I will ${par}.`
 }
 
 saturdayFun("eat");
+

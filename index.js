@@ -17,7 +17,7 @@ function wrapAdjective(par1="*")//1
 {
   return function(par="special") //2
   {
-    return `You are ${par1}${par}${par1}`
+    return `You are ${par1}${par}${par1}!`
   }
 }
 wrapAdjective("%")("a dedicated programmer");

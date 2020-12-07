@@ -15,4 +15,3 @@ return `This Monday, I will ${par}.`
 }
 
 saturdayFun("eat");
-
